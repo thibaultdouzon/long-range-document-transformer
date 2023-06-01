@@ -1,1 +1,1 @@
-# lon-range-document-transformer
+# long-range-document-transformer
