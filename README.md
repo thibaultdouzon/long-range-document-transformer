@@ -24,44 +24,9 @@ Cosformer is **not** compatible with fp16 inference or training. More investigat
 
 [^1]: <https://arxiv.org/abs/1912.13318>
 
-```code
-@inproceedings{Xu_2020,
-    doi = {10.1145/3394486.3403172},
-    url = {https://doi.org/10.1145%2F3394486.3403172},
-    year = 2020,
-    month = {aug},
-    publisher = {{ACM}},
-    author = {Yiheng Xu and Minghao Li and Lei Cui and Shaohan Huang and Furu Wei and Ming Zhou},
-    title = {{LayoutLM}: Pre-training of Text and Layout for Document    Image Understanding},
-    booktitle = {Proceedings of the 26th {ACM} {SIGKDD} International Conference on Knowledge Discovery {\&}amp$\mathsemicolon$ Data Mining}
-}
-```
-
 [^2]: <https://arxiv.org/abs/2006.04768>
 
-```code
-@misc{wang2020linformer,
-    title={Linformer: Self-Attention with Linear Complexity}, 
-    author={Sinong Wang and Belinda Z. Li and Madian Khabsa and Han Fang and Hao Ma},
-    year={2020},
-    eprint={2006.04768},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
-}
-```
-
 [^3]: <https://arxiv.org/abs/2202.08791>
-
-```code
-@misc{qin2022cosformer,
-    title={cosFormer: Rethinking Softmax in Attention}, 
-    author={Zhen Qin and Weixuan Sun and Hui Deng and Dongxu Li and Yunshen Wei and Baohong Lv and Junjie Yan and Lingpeng Kong and Yiran Zhong},
-    year={2022},
-    eprint={2202.08791},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
-}
-```
 
 ## Example
 
