@@ -1,0 +1,7 @@
+.mypy_cache
+.venv
+
+**/__pycache__
+
+models
+src/head_chop.py
